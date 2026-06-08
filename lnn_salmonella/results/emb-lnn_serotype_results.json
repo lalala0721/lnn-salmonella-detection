@@ -1,0 +1,6 @@
+{
+  "model": "emb-lnn",
+  "num_parameters": 100118,
+  "test_accuracy": 0.25149700598802394,
+  "test_f1_macro": 0.14302579452504985
+}

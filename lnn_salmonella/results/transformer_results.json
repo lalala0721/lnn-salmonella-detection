@@ -1,0 +1,16 @@
+{
+  "model": "transformer",
+  "num_parameters": 850946,
+  "kmer_dim": 256,
+  "num_chunks": 32,
+  "test_metrics": {
+    "loss": 0.2898961454629898,
+    "accuracy": 0.7987012987012987,
+    "precision": 0.7987012987012987,
+    "recall": 1.0,
+    "f1": 0.8880866425992779,
+    "auc": 0.5
+  },
+  "best_val_acc": 0.7665952890792291,
+  "epochs_trained": 16
+}

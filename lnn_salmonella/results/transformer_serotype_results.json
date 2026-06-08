@@ -1,0 +1,64 @@
+{
+  "model": "transformer",
+  "num_parameters": 851271,
+  "test_accuracy": 0.339572192513369,
+  "test_f1_macro": 0.08449767132401863,
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      86,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      68,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      127,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      13,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      64,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      16,
+      0,
+      0,
+      0
+    ]
+  ],
+  "classes": [
+    "dublin",
+    "enteritidis",
+    "heidelberg",
+    "infantis",
+    "newport",
+    "typhimurium"
+  ]
+}
