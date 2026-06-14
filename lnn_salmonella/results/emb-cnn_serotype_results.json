@@ -1,6 +1,0 @@
-{
-  "model": "emb-cnn",
-  "num_parameters": 136166,
-  "test_accuracy": 0.3153692614770459,
-  "test_f1_macro": 0.12257534775888716
-}
