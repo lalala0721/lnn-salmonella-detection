@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite both the software and the associated paper."
+title: "LNN Salmonella Detection: Deep Learning for Genomic Pathogen Detection"
+authors:
+  - family-names: "[Author Family Name]"
+    given-names: "[Author Given Name]"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+repository-code: "https://github.com/lalala0721/lnn-salmonella-detection"
+doi: "10.5281/zenodo.20597488"
+license: MIT
+keywords:
+  - "Salmonella enterica"
+  - "deep learning"
+  - "liquid neural networks"
+  - "whole-genome sequencing"
+  - "k-mer encoding"
+  - "pathogen detection"
+  - "bioinformatics"
+type: software

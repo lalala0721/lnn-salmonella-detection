@@ -1,0 +1,4 @@
+# NCBI GenBank accession list for LNN Salmonella Detection dataset
+# Fill in the actual accession numbers for each genome used in the study
+# Columns: accession,species,serotype,label
+# label: 1 = Salmonella, 0 = non-Salmonella
